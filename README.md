@@ -3,4 +3,4 @@ Esse código funciona como um simulador de apostas, o código Lê 13 apostas fei
 _________________________________________________________________________________________________________________________________________________________________________
 Segue em anexo, um link para o google COLAB, para que o codigo possa ser executado com facilidade. Ao abrir o google colab, deve-se executar o instalador do C#, para que ele funcione de forma correta
 
-https://colab.research.google.com/drive/1PffQBl5PFM8x6K7OiSYBeGO0qaW64trV#scrollTo=BN7ia8XwBRAg
+https://colab.research.google.com/drive/14wlChPccjRVXJrp8pj5pyXUDjK8nX6bJ#scrollTo=63_AchRqQmXk
